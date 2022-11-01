@@ -23,4 +23,4 @@ Run the command like `python main.py --dataset medmnistA --iters 100 --wk_iters 
 - Directory `network` describes the model structure
 - Directory `results` records the results
 - Directory `split` stores the data distribution information
-# Star-PFL
+
